@@ -4333,11 +4333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact.Tests\\OtpReact.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact.Tests\\OtpReact.Tests.csproj",
       "projectName": "OtpReact.Tests",
-      "projectPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact.Tests\\OtpReact.Tests.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact.Tests\\OtpReact.Tests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact.Tests\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4356,8 +4356,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact\\OtpReact.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact\\OtpReact.csproj"
+            "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact\\OtpReact.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact\\OtpReact.csproj"
             }
           }
         }

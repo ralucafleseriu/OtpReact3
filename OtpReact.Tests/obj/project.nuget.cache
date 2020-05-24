@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2H/2iA4AAEKpIrQShcS87788COH0rgYi60HCTWtHsWt0X45TLSEKi/FUrzC5UhUE4V3a3fx4j4zEb0bmgpriw==",
+  "dgSpecHash": "rG5SOMxTb7xyuOra7yi1HiylpPbAJoQo8xEO2r1mCpLI+mUY5jnl4CiMKqp4TyxWQJ1tPO/zQrF6pY7enGWUyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Projects\\OtpReact\\OtpReact.Tests\\OtpReact.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\Projects\\OtpReact3\\OtpReact3\\OtpReact.Tests\\OtpReact.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.4\\microsoft.aspnetcore.nodeservices.3.1.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.4\\microsoft.aspnetcore.spaservices.3.1.4.nupkg.sha512",
